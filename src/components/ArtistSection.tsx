@@ -5,7 +5,7 @@ const highlights = [
   { icon: Award, label: "14+ Years", desc: "Experience" },
   { icon: Users, label: "1000+", desc: "Satisfied Clients" },
   { icon: Shield, label: "Premium", desc: "Quality" },
-  { icon: Clock, label: "Trusted", desc: "Since 2010" },
+  { icon: Clock, label: "Trained", desc: "Professional" },
 ];
 
 const ArtistSection = () => {
@@ -33,13 +33,15 @@ const ArtistSection = () => {
             
             <p className="body-text mb-6">
               Tattoo Daddy has been the premier destination for custom tattoos and branding excellence 
-              for over 14 years, establishing a legacy of trust and artistic innovation in the tattoo industry.
+              for over 14 years, with extensive professional training and continuous skill development 
+              establishing a legacy of trust and artistic innovation in the tattoo industry.
             </p>
             
             <p className="body-text mb-8">
               Our brand represents the perfect fusion of artistic vision and professional service. 
-              From the initial concept to the final masterpiece, we provide an unparalleled experience 
-              that reflects our commitment to quality and customer satisfaction.
+              With comprehensive training in the latest techniques and safety protocols, 
+              we provide an unparalleled experience that reflects our commitment to quality 
+              and customer satisfaction.
             </p>
 
             {/* Highlights Grid */}
@@ -71,6 +73,10 @@ const ArtistSection = () => {
                 <li className="flex items-start">
                   <span className="text-primary mr-2">•</span>
                   <span>Trust and reliability built over 14+ years</span>
+                </li>
+                <li className="flex items-start">
+                  <span className="text-primary mr-2">•</span>
+                  <span>Continuous professional training and skill development</span>
                 </li>
               </ul>
             </div>

@@ -9,8 +9,8 @@ const Index = () => {
     <main className="min-h-screen bg-background">
       <SEO 
         title="Tattoo Daddy - Professional Tattoo Studio | Custom Body Art"
-        description="Experience exceptional tattoo artistry at Tattoo Daddy. Book your custom tattoo appointment with our skilled artists today. View our gallery and get inspired."
-        keywords="tattoo, tattoo studio, tattoo artist, custom tattoo, body art, tattoo design, tattoo gallery, tattoo near me, professional tattoo"
+        description="Experience exceptional tattoo artistry at Tattoo Daddy. Book your custom tattoo appointment with our professionally trained artists today. View our gallery and get inspired."
+        keywords="tattoo, tattoo studio, tattoo artist, custom tattoo, body art, tattoo design, tattoo gallery, tattoo near me, professional tattoo, tattoo training"
       />
       <Navigation />
       <HeroSection />

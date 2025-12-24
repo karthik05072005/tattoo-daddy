@@ -65,6 +65,7 @@ const HygieneSection = () => {
               <ul className="space-y-4">
                 {[
                   "Licensed and certified professional artist",
+                  "Extensive training in safety protocols",
                   "Disposable gloves changed for every client",
                   "Fresh ink caps for every session",
                   "Proper waste disposal protocols",

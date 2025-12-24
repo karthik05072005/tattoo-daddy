@@ -43,7 +43,8 @@ const HeroSection = () => {
         {/* Brand Statement */}
         <p className="text-muted-foreground text-sm md:text-base max-w-xl mx-auto mb-10 animate-fade-up opacity-0" style={{ animationDelay: '0.4s', animationFillMode: 'forwards' }}>
           A seasoned tattoo artist blending technical mastery with artistic flair, 
-          transforming visions into timeless ink.
+          transforming visions into timeless ink. Extensive professional training 
+          ensures the highest quality and safety standards.
         </p>
 
         {/* Trust Indicators */}

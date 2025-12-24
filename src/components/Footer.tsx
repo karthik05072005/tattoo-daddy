@@ -25,7 +25,8 @@ const Footer = () => {
             </h3>
             <p className="text-muted-foreground text-sm mb-6 leading-relaxed">
               A seasoned tattoo artist blending technical mastery with artistic flair, 
-              transforming visions into timeless ink.
+              transforming visions into timeless ink. Extensive professional training 
+              ensures the highest quality and safety standards.
             </p>
             <div className="flex items-center gap-4">
               <a 

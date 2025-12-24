@@ -9,8 +9,8 @@ const Artist = () => {
     <main className="min-h-screen bg-background pt-20">
       <SEO 
         title="About Us | The Tattoo Daddy Brand Story & 14+ Years of Experience"
-        description="Discover the Tattoo Daddy brand story, our 14+ years of premium tattoo experience, and our commitment to quality and customer satisfaction in the tattoo industry."
-        keywords="tattoo brand, tattoo daddy, about us, tattoo experience, tattoo studio, premium tattoos, tattoo industry, branding experience"
+        description="Discover the Tattoo Daddy brand story, our 14+ years of premium tattoo experience, extensive professional training, and our commitment to quality and customer satisfaction in the tattoo industry."
+        keywords="tattoo brand, tattoo daddy, about us, tattoo experience, tattoo studio, premium tattoos, tattoo industry, branding experience, tattoo training"
       />
       <Navigation />
       <ArtistSection />
