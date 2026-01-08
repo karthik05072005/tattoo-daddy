@@ -164,7 +164,7 @@ Preferred Date: ${formData.preferredDate}`;
               <h3 className="font-display text-xl text-foreground mb-4">Studio Location</h3>
               <div className="aspect-video mb-4 bg-muted">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.9797!2d77.4859!3d12.9139!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTLCsDU0JzUwLjAiTiA3N8KwMjknMDkuMiJF!5e0!3m2!1sen!2sin!4v1635000000000!5m2!1sen!2sin"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.9797!2d77.4818028!3d12.9171409!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3f0a5a8504a1:0x77a8033712ac42cf!2sTattoo%20daddy!5e0!3m2!1sen!2sin!4v1635000000000!5m2!1sen!2sin"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
