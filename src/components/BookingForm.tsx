@@ -87,7 +87,7 @@ Preferred Date: ${formData.preferredDate}`;
                     value={formData.phone}
                     onChange={handleChange}
                     className="w-full bg-card border border-border px-4 py-3 text-foreground placeholder:text-muted-foreground focus:border-primary focus:outline-none transition-colors"
-                    placeholder="+91 98765 43210"
+                    placeholder="+91 9513169561"
                   />
                 </div>
               </div>
@@ -187,13 +187,13 @@ Preferred Date: ${formData.preferredDate}`;
                 <div className="flex items-center justify-between py-3 border-b border-border">
                   <span className="text-muted-foreground">Phone</span>
                   <a href="tel:+919513169561" className="text-primary hover:text-gold-light">
-                    +91 98765 43210
+                    +91 9513169561
                   </a>
                 </div>
                 <div className="flex items-center justify-between py-3 border-b border-border">
                   <span className="text-muted-foreground">WhatsApp</span>
                   <a href="https://wa.me/919513169561" className="text-primary hover:text-gold-light">
-                    +91 98765 43210
+                    +91 9513169561
                   </a>
                 </div>
                 <div className="flex items-center justify-between py-3 border-b border-border">
